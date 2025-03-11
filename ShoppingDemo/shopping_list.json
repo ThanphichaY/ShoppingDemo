@@ -1,0 +1,58 @@
+[
+    {
+        "productName": "Black Handbag",
+        "id": 1001,
+        "category": 1,
+        "price": 2800,
+        "unit": "THB",
+        "image": "bag1"
+    },
+    {
+        "productName": "Tote Bag",
+        "id": 1002,
+        "category": 1,
+        "price": 1900,
+        "unit": "THB",
+        "image": "bag2"
+    },
+    {
+        "productName": "Jeans",
+        "id": 2001,
+        "category": 2,
+        "price": 550,
+        "unit": "THB",
+        "image": "jeans"
+    },
+    {
+        "productName": "Bracelet I19",
+        "id": 1003,
+        "category": 3,
+        "price": 4500,
+        "unit": "THB",
+        "image": "bracelet"
+    },
+    {
+        "productName": "Necklace E23",
+        "id": 3001,
+        "category": 3,
+        "price": 5900,
+        "unit": "THB",
+        "image": "necklace"
+    },
+    {
+        "productName": "Women Blouse",
+        "id": 3002,
+        "category": 2,
+        "price": 300,
+        "unit": "THB",
+        "image": "blouse"
+    },
+    {
+        "productName": "Sneakers",
+        "id": 2002,
+        "category": 4,
+        "price": 900,
+        "unit": "THB",
+        "image": "shoes"
+    }
+]

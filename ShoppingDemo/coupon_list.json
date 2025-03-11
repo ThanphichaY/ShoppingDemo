@@ -1,0 +1,92 @@
+[
+    {
+        "couponName": "50 Baht discount",
+        "id": 10,
+        "discount": 50,
+        "type": "coupon",
+        "discountType": 1,
+        "onPrice": null,
+        "image": "coupon1"
+    },
+    {
+        "couponName": "80 Baht discount",
+        "id": 11,
+        "discount": 80,
+        "type": "coupon",
+        "discountType": 1,
+        "onPrice": null,
+        "image": "coupon2"
+    },
+    {
+        "couponName": "Get 20% discount off",
+        "id": 12,
+        "discount": 20,
+        "type": "coupon",
+        "discountType": 2,
+        "onPrice": null,
+        "image": "coupon3"
+    },
+    {
+        "couponName": "Get 30% discount off",
+        "id": 13,
+        "discount": 30,
+        "type": "coupon",
+        "discountType": 2,
+        "onPrice": null,
+        "image": "coupon4"
+    },
+    {
+        "couponName": "Get 15% off on bags",
+        "id": 20,
+        "discount": 15,
+        "type": "ontop",
+        "discountType": 4,
+        "onPrice": null,
+        "image": "coupon5"
+    },
+    {
+        "couponName": "Get 5% off on cloth",
+        "id": 21,
+        "discount": 5,
+        "type": "ontop",
+        "discountType": 5,
+        "onPrice": null,
+        "image": "coupon9"
+    },
+    {
+        "couponName": "Get 10% off on accessories",
+        "id": 22,
+        "discount": 10,
+        "type": "ontop",
+        "discountType": 6,
+        "onPrice": null,
+        "image": "coupon10"
+    },
+    {
+        "couponName": "Redeem point to get discount",
+        "id": 23,
+        "discount": 0,
+        "type": "ontop",
+        "discountType": 3,
+        "onPrice": null,
+        "image": "coupon6"
+    },
+    {
+        "couponName": "Get 30 baht off every 400 baht",
+        "id": 30,
+        "discount": 30,
+        "type": "seasonal",
+        "discountType": 8,
+        "onPrice": 400,
+        "image": "coupon7"
+    },
+    {
+        "couponName": "Get 100 baht off every 1000 baht",
+        "id": 31,
+        "discount": 100,
+        "type": "seasonal",
+        "discountType": 8,
+        "onPrice": 1000,
+        "image": "coupon8"
+    }
+]
