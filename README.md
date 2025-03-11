@@ -1,7 +1,7 @@
 # shoppingDemo
 Thanphicha Yimlamai
 
-The repository for demo shopping cart with coupon discount campaign 
+The repository for demo shopping cart with coupon discount campaign using Xcode and Swift to simulate the application scenerios.
 
 To Test the app is to clone the project and open in Xcode and run on a simulator. This project uses build-in libraries and materials, so no need to install third party like CocoaPods or another dependency packages.
 
